@@ -1,0 +1,22 @@
+HTML tags
+
+- <!DOCTYPE html> - naršyklei nurodo, jog failą reikia interpretuoti pagal HTML5 standartą
+- <html>
+    - <head>
+        - <title> - puslapio pavadinimas, matomas naršyklės tab’e (skirtuke)
+        - <link> - nuoroda į CSS failą
+        - <style> - CSS turinys
+        - <meta> - papildomos informacija naršyklei, web robotams ir t.t.
+    - <body>
+        - <div> - kai nieko geriau nesugalvojame…
+        - <header> - turinio sekcija, kuri globaliai nusako viršutinę dalį, pvz, ten kur būna logotipas ir pagrindinis meniu
+        - <section>, <main> - pagrindinio turinio sekcija
+        - <aside> - šoninė turinio sekcija
+        - <footer> - turinio sekcija, kuri globaliai nusako apatinę dalį
+        - <img> - nuotraukos atvaizdavimas
+        - <p> - teksto pastraipa
+        - <a> - nuoroda
+        - <span> - kai ilgesniame tekste norime papildomai sustailinti dalį turinio
+        - <nav> - elementas gaubiantis pagrindinio turinio nuorodas
+        - <ul>, <ol>, <li> - stilizuotų sąrašų kūrimas
+        - <script> - nuoroda į JavaScript failą, arba pats JavaScript kodo turinys

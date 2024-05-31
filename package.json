@@ -1,0 +1,16 @@
+{
+  "name": "html-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=5004",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "VioletaS",
+  "license": "MIT",
+  "dependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
